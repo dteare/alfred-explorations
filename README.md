@@ -40,7 +40,7 @@ The CLI can do a lot more than we could ever achieve with plain text metadata fi
 
 This integration would no longer rely on unprotected plain text files, and with the new CLI users could authorize access to Alfred using Touch ID or their Apple Watch.
 
-![VSCode requesting authorization to access 1Password via the CLI with Touch ID](vscode-1password-cli-integration.png)
+![VSCode requesting authorization to access 1Password via the CLI with Touch ID](./images/vscode-1password-cli-integration.png)
 
 There are many possibilities with CLI as it's a full-featured CLI that supports CRUD of items, vaults, and even account.
 
