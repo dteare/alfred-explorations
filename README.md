@@ -38,7 +38,7 @@ This could be easily extended to match the format used in 1Password 7 and used t
 
 The CLI can do a lot more than we could ever achieve with plain text metadata files. Things like usernames could be included alongside the item titles in [1Click Bookmarks](https://www.alfredapp.com/help/features/1password/), items could be created within 1Password, and in theory the entire 1Password mini experience could be recreated.
 
-This integration would no longer rely on unprotected plain text files, and with the new CLI users can authorize access to Alfred using Touch ID or their Apple Watch.
+This integration would no longer rely on unprotected plain text files, and with the new CLI users could authorize access to specific accounts using Touch ID or their Apple Watch.
 
 ![VSCode requesting authorization to access 1Password via the CLI with Touch ID](./images/vscode-1password-cli-integration.png)
 
