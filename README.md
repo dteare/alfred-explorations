@@ -45,3 +45,12 @@ This integration would no longer rely on unprotected plain text files, and with 
 There are innumerable possibilities as `op` is a full-featured CLI that supports CRUD of items, vaults, and even accounts.
 
 I'm looking forward to exploring all the possibilities this unlocks! 😍
+
+
+## Testing setup 
+
+You'll need to install the [1Password 8 for Mac beta](http://1password.com/downloads/mac/#beta-downloads) as well as [1Password CLI 2](https://developer.1password.com/docs/cli/get-started). 
+
+Add your account to 1Password and then use the try some of the [Getting started with commands](https://developer.1password.com/docs/cli/get-started-commands) examples to verify your setup. 
+
+If you're like to use the example Rust code in this repo you'll need to [install Rust](https://www.rust-lang.org/tools/install) and then run `cargo run` from the root directory. 
